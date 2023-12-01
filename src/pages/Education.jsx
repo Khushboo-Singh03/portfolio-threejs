@@ -79,7 +79,7 @@ const Education = () => {
           <div className="flex-wrap justify-center  py-12 items-center">
             <div className="flex justify-between items-center">
               <h1 className="pr-6">
-                Hello Jiya, how are you? May I help you? Hello Jiya, how are
+                Hello Jiya, how are you darling!? May I help you? Hello Jiya, how are
                 you? May I help you? Hello Jiya, how are you? May I help you?
               </h1>
 

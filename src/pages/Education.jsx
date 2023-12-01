@@ -74,7 +74,7 @@ const Education = () => {
         </div>
       </div>
       <div className="py-16">
-        <h3 className="text-3xl font-medium">Certificate & Achievment</h3>
+        <h3 className="text-7xl font-medium">Certificate & Achievment</h3>
         <div className="mt-5 ">
           <div className="flex-wrap justify-center  py-12 items-center">
             <div className="flex justify-between items-center">
